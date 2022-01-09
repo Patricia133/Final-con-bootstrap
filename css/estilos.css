@@ -1,0 +1,19 @@
+.logo {
+
+	padding-left: 40px;
+}
+
+.carousel {
+	width: 100%!important;
+	display: block!important;
+}
+.titulo {
+	padding-top: 150px;
+}
+h1 {
+	padding-top: 100px;
+}
+.img-responsive {
+	width: 100%;
+	height: auto;
+}
